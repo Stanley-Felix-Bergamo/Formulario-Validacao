@@ -3,6 +3,10 @@
 <p>Validando se o segundo número é maior que o primeiro número no formulário</p> 
 <p>Saiba mais acessando o site <a href="https://stanley-felix-bergamo.github.io/Formulario-Validacao/">Clicando aki</a></p> 
 
+<div align="center" >
+<img src="https://raw.githubusercontent.com/Stanley-Felix-Bergamo/Formulario-Validacao/exercicio_html_js/mac.png" alt="Emoji triste">
+</div>
+
 <h2>💻 Tecnologias utilizadas</h2>
 O projeto foi desenvolvido utilizando as seguintes tecnologias:<br>
 
